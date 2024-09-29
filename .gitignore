@@ -15,3 +15,8 @@ backups/
 
 # Ignore the checksum files
 *.md5
+
+# Other
+.directory
+*swp
+*.backup-archiver.log
