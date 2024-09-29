@@ -8,6 +8,11 @@ This is a mini script for archiving directory backups without pretensions. It co
 - Encrypts the archive using GPG.
 - Saves an MD5 checksum for each encrypted backup.
 
+## Requirements
+- tar
+- gpg
+- md5sum
+
 ## Usage
 Run the script with the desired folder to backup, and specify an output directory if needed.
 
