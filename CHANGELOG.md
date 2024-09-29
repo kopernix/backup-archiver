@@ -7,6 +7,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### Added
+- Implementing **directory-cleaner** script for cleaning up directories and files (in progress).
+
+### Changed
+
+### Removed
+
 ## [0.2.0] - 2024-09-29
 ### Added
 - Automatic exclusion of `backups`, `.git`, and `scripts` directories.
