@@ -6,6 +6,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+scripts/Folder_*
 
 # Ignore the backup folder
 backups/
